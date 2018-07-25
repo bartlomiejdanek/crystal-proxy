@@ -1,0 +1,7 @@
+mappings:
+  - method: get
+    path: /airbnb
+    host: https://www.airbnb.com
+  - method: get
+    path: /homeaway
+    host: https://www.homeaway.com

@@ -1,0 +1,18 @@
+name: crystal-proxy
+version: 0.1.0
+
+authors:
+  - Bartłomiej Danek <bartek.danek@gmail.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+targets:
+  crystal-proxy:
+    main: src/crystal-proxy.cr
+
+crystal: 0.24.2
+
+license: MIT
